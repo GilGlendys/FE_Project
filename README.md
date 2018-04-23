@@ -1,3 +1,4 @@
+
 # Serverless Stack Demo React App
 
 [Serverless Stack](http://serverless-stack.com) is a free comprehensive guide to creating full-stack serverless applications. We create a [note taking app](http://demo.serverless-stack.com) from scratch.
@@ -77,4 +78,26 @@ Serverless Stack is authored and maintained by Frank Wang ([@fanjiewang](https:/
 
 [Email]: mailto:contact@anoma.ly
 
+
+Some basic Git commands are:
+
+```
+git status
+git add
+git commit
+
+For remote access...
+
+git remote add origin https://github.com/GilGlendys/FE_Project.git
+git push -u origin master
+
+```
+
+Sample:
+```git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/GilGlendys/FE_Project.git
+git push -u origin master
+```
 
